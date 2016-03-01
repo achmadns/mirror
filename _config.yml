@@ -1,0 +1,41 @@
+# Permalinks
+permalink: ':year-:month-:day-:title/'
+
+# Setup
+title:               'Achmad Nasirudin Sandi Blog'
+tagline:             'Passionate Software Engineer'
+description:         'My online random thoughts. Say hello at <a href="https://twitter.com/achmadnsandi" target="_blank">@achmadnsandi</a>.'
+url:                 http://achmadns.github.io/blog
+baseurl:             http://achmadns.github.io/blog
+paginate:            5
+
+# About/contact
+author:
+  name:              'Achmad Nasirudin Sandi'
+  url:               https://twitter.com/achmadnsandi
+
+github:
+  repo: http://github.com/achmadns
+
+# Custom vars
+version:             1.0.0
+
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-sitemap
+  - pygments.rb
+
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - node_modules
+    - Gruntfile.js
+    - package.json
+    - tmp
+    - .git

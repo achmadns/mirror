@@ -1,0 +1,35 @@
+{
+  "private": false,
+  "name": "achmadns",
+  "description": "Blog of Achmad Nasirudin Sandi",
+  "version": "0.1.0",
+  "homepage": "https://github.com/achmadns",
+  "author": {
+    "name": "Achmad Nasirudin Sandi",
+    "url": "http://achmadns.com"
+  },
+  "github": "https://github.com/achmadns",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:achmadns/achmadns.github.io.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ],
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-shell": "latest",
+    "grunt-contrib-watch": "latest",
+    "matchdep": "latest",
+    "grunt-open": "latest",
+    "grunt-contrib-connect": "latest"
+  },
+  "keywords": []
+}
