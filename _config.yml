@@ -5,8 +5,8 @@ permalink: ':year-:month-:day-:title/'
 title:               'Achmad Nasirudin Sandi Blog'
 tagline:             'Passionate Software Engineer'
 description:         'My online random thoughts. Say hello at <a href="https://twitter.com/achmadnsandi" target="_blank">@achmadnsandi</a>.'
-url:                 http://achmadns.github.io/blog
-baseurl:             http://achmadns.github.io/blog
+url:                 http://www.achmadns.com
+baseurl:             http://www.achmadns.com
 paginate:            5
 
 # About/contact
